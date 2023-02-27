@@ -193,10 +193,10 @@ ENROUTE INSTRUCTIONS
 ..hold $1 uzeri $alt 'de, prosedurun yayimlandigi sekilde beklemeye girin.
 
 .holdl Hold over $1, $alt, inbound track $2, left hand pattern.
-..holdl $1 uzeri, $alt de beklemeye girin, inbound basÃ½ $2, soldan donus.
+..holdl $1 uzeri, $alt de beklemeye girin, inbound basý $2, soldan donus.
 
 .holdr Hold over $1, $alt, inbound tack $2, right hand pattern.
-..holdr $1 uzeri, $alt de beklemeye girin, inbound basÃ½ $2, sagdan donus.
+..holdr $1 uzeri, $alt de beklemeye girin, inbound basý $2, sagdan donus.
 
 .lhh Leave hold on heading $1.
 ..lhh Beklemeyi $1 basta terk edin.
@@ -211,7 +211,7 @@ ENROUTE INSTRUCTIONS
 ..ias Lutfen gosterge hizinizi rapor edin.
 
 .mach Report your mach number please.
-..mach Mach sÃ¼ratinizi rapor edin.
+..mach Mach süratinizi rapor edin.
 
 .rias Reduce indicated air speed to $1 knots. 
 ..rias Gosterge hizinizi $1 knot'a dusurun.
@@ -298,7 +298,7 @@ VFR INSTRUCTIONS
 ..vfr $arr meydani icin gorerek sartlarda ucusa serbestsiniz. Kullanilan pist $deprwy, altimetre $altim($dep), squawk $squawk. 
 
 .vfrp Cleared for $1 hand turn traffic pattern at $2 feet on VFR, departure rwy $deprwy, QNH $altim($dep), squawk $squawk.
-..vfrp GÃ¶rerek sartlarda $1 dan donuslu meydan turuna $2 feette serbestsiniz, kalkis pisti $deprwy, altimetre $altim($dep), squawk kodunuz $squawk. 
+..vfrp Görerek sartlarda $1 dan donuslu meydan turuna $2 feette serbestsiniz, kalkis pisti $deprwy, altimetre $altim($dep), squawk kodunuz $squawk. 
 
 .rdw Report downwind. 
 ..rdw Ruzgar altini rapor edin.
@@ -351,7 +351,7 @@ VECTOR DEPARTURE, RWY$deprwy - AFTER DEPARTURE MAINTAIN RUNWAY HEADING, EXPECT R
 .FMPDC -DEPARTURE CLEARANCE- $ftime(minutes) / FROM: $dep, $aircraft is CLRD TO: $arr / RWY: $deprwy / SID: $sid / SQK: $squawk / FREQ: $freq($1) / ATIS: $atiscode / QNH: $altim($dep) / DEP FREQ: $freq($2) / CLIMB VIA SID TO ALTITUDE $alt / READBACK REQUIRED VIA PRIVATE MESSAGE. CONTACT $freq(3) for PUSH AND START.
 
 .plc Hello, I see you are new to the network. First of all - welcome to VATSIM! It may be tempting to jump right ahead and fly, but I would suggest you read through some training material first, in order to prepare yourself for what you may encounter. First of all - you should read the VATSIM tutorials at vats.im/plc. Here you can find everything you need. Second of all, you should read through the VATSIM Code of Conduct (vats.im/coc), especially sections A and B, in order to not get in trouble for something you didn't know. Let me know if you need any more questions, I am here to help you! 
-..plc Merhaba, VATSIM'de yeni oldugunuzu goruyorum. Her seyden once - VATSIM'e hos geldiniz! Hemen ileri atlayip ucmak cazip gelebilir, ancak karsilasabileceginiz durumlara kendinizi hazirlamak icin once bazi egitim materyallerini okumanizi oneririm. Her seyden once - vats.im/plc adresindeki VATSIM egitimlerini okumalisiniz. Burada ihtiyaciniz olan her seyi bulabilirsiniz. Ikincisi, bilmediginiz bir sey yÃ¼zÃ¼nden basinizi derde sokmamak icin VATSIM Code of Conduct (Davranis Kurallari'ni) (vats.im/coc), Ã¶zellikle A ve B bÃ¶lÃ¼mlerini bastan sona okumalisiniz. Daha fazla yardima ihtiyacin olursa bana haber ver, sana yardim etmek icin buradayim!
+..plc Merhaba, VATSIM'de yeni oldugunuzu goruyorum. Her seyden once - VATSIM'e hos geldiniz! Hemen ileri atlayip ucmak cazip gelebilir, ancak karsilasabileceginiz durumlara kendinizi hazirlamak icin once bazi egitim materyallerini okumanizi oneririm. Her seyden once - vats.im/plc adresindeki VATSIM egitimlerini okumalisiniz. Burada ihtiyaciniz olan her seyi bulabilirsiniz. Ikincisi, bilmediginiz bir sey yüzünden basinizi derde sokmamak icin VATSIM Code of Conduct (Davranis Kurallari'ni) (vats.im/coc), özellikle A ve B bölümlerini bastan sona okumalisiniz. Daha fazla yardima ihtiyacin olursa bana haber ver, sana yardim etmek icin buradayim!
 
 AIRPORT Info
 
