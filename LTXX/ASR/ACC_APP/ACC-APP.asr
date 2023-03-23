@@ -1,0 +1,44 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Free Text:LTXX FIR Names\LBSR / SOFIA FIR:freetext
+Free Text:LTXX FIR Names\LCCC / NICOSIA FIR:freetext
+Free Text:LTXX FIR Names\LGGG / ATHENS FIR:freetext
+Free Text:LTXX FIR Names\LGGG / ATHENS FIR:freetext
+Free Text:LTXX FIR Names\OIIX / TEHRAN FIR:freetext
+Free Text:LTXX FIR Names\ORBB / BAGHDAD FIR:freetext
+Free Text:LTXX FIR Names\OSTT / DAMASCUS FIR:freetext
+Free Text:LTXX FIR Names\UDDD / YEREVAN FIR:freetext
+Free Text:LTXX FIR Names\UGGG / TBILISI FIR:freetext
+Free Text:LTXX FIR Names\UKFV / SIMFEROPOL FIR:freetext
+Free Text:LTXX FIR Names\URRV / ROSTOV FIR:freetext
+Regions:LTAA Coastline:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:ACC_Default
+WINDOWAREA:34.014048:22.584334:44.170295:48.042849
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:0
+PLUGIN:Virtual Controller Assistant:CDSHOW:0
+PLUGIN:Virtual Controller Assistant:CDXPOS:779
+PLUGIN:Virtual Controller Assistant:CDYPOS:82
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:0
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
