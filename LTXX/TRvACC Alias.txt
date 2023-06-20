@@ -183,6 +183,9 @@ TRvACC STANDARD ALIAS
 .mrh After departure maintain runway heading. 
 ..mrh Kalkistan sonra pist dogrultusunu muhafaza edin. 
 
+.on /Good evening, $radioname is online.
+.off /$radioname is closing. Good night for all.
+
 
 ENROUTE INSTRUCTIONS
  

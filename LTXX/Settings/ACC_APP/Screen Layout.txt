@@ -36,8 +36,8 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:-1000
 m_PlanesListY:-1000
-m_MetarListX:1252
-m_MetarListY:40
+m_MetarListX:1627
+m_MetarListY:24
 m_VoiceListX:1678
 m_VoiceListY:54
 m_ControllerListX:1787

@@ -83,138 +83,6 @@ PROFILE:LTAA_B_CTR:300:6
 ATIS2:Ankara Control CPDLC above FL245 [LTSJ]
 ATIS3:Covering LTAE
 ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_APP:150:5
-ATIS2:Yesilkoy Approach
-ATIS3:Covering LTFM, LTFJ, LTBA, LTBU
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_EF_APP:150:5
-ATIS2:Yesilkoy East Final
-ATIS3:No Top Down Coverage
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_WF_APP:150:5
-ATIS2:Yesilkoy West Final
-ATIS3:No Top Down Coverage
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_AG_APP:150:5
-ATIS2:Yesilkoy Approach
-ATIS3:LTFJ Arc Director and Departure
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_AD_DEP:150:5
-ATIS2:Istanbul Departure
-ATIS3:Contact me immediately after DEP from LTFM
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_L_APP:150:5
-ATIS2:Yesilkoy Lower
-ATIS3:Covers Istanbul 000-115
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_F_APP:150:5
-ATIS2:Yesilkoy Radar
-ATIS3:
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_E_APP:150:5
-ATIS2:Yesilkoy Radar
-ATIS3:
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBA_W_APP:150:5
-ATIS2:Yesilkoy Radar
-ATIS3:
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBJ_APP:150:5
-ATIS2:Menderes Approach
-ATIS3:Covering LTBJ, LTFA, LTBL, LTBK, LTFB, LTBT
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBJ_F_APP:150:5
-ATIS2:Menderes Director
-ATIS3:Covering LTBJ Only
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTFE_APP:150:5
-ATIS2:Milas Approach
-ATIS3:Covering LTFE, LTBV
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBS_APP:150:5
-ATIS2:Dalaman Approach
-ATIS3:Covering LTBS
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBG_APP:150:5
-ATIS2:Bandirma Approach
-ATIS3:Covering LTBG
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBF_APP:150:5
-ATIS2:Balikesir Approach
-ATIS3:Covering LTBF
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBI_APP:150:5
-ATIS2:Eskisehir Approach
-ATIS3:Covering LTBY, LTBI
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTCG_APP:150:5
-ATIS2:Trabzon Approach
-ATIS3:Covering LTCG
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTCC_APP:150:5
-ATIS2:Diyarbakir Approach
-ATIS3:Covering LTCC, LTCJ, LTCR
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAT_APP:150:5
-ATIS2:Erhac Approach
-ATIS3:Covering LTAT, LTAO, LTCP
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBQ_APP:150:5
-ATIS2:Topel Approach
-ATIS3:Covering LTBQ
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAN_APP:150:5
-ATIS2:Konya Approach
-ATIS3:Covering LTAN
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAP_APP:150:5
-ATIS2:Merzifon Approach
-ATIS3:Covering LTAP
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAI_F_APP:150:5
-ATIS2:Antalya Approach - Final Director
-ATIS3:Covering LTAI
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAI_L_APP:150:5
-ATIS2:Antalya Approach - Lower Sector
-ATIS3:Covering LTAI, LTFG
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAI_APP:150:5
-ATIS2:Antalya Approach
-ATIS3:Covering LTAI, LTFC, LTFG
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAC_APP:150:5
-ATIS2:Esenboga Approach
-ATIS3:Covering LTAC
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAC_F_APP:150:5
-ATIS2:Esenboga Approach (Final Sector)
-ATIS3:Covering LTAC
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBL_APP:150:5
-ATIS2:Cigli Rapcon
-ATIS3:Covering LTBL
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAU_APP:150:5
-ATIS2:Erkilet Approach
-ATIS3:Covering LTAU
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBR_APP:150:5
-ATIS2:Yenisehir Approach
-ATIS3:Covering LTBR
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBS_N_APP:150:5
-ATIS2:Dalaman Approach - North Sector
-ATIS3:Covering LTBS
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTBS_S_APP:150:5
-ATIS2:Dalaman Approach - South Sector
-ATIS3:Covering LTBS
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
-PROFILE:LTAG_APP:150:5
-ATIS2:Incirlik Approach
-ATIS3:Covering LTAF, LTAG
-ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
 PROFILE:LTFM_TWR:50:4
 ATIS2:Istanbul Tower DCL [LTFM]
 ATIS3:Vats.im/tr/wiki_ltfm
@@ -723,4 +591,140 @@ PROFILE:LTFO_GND:10:4
 ATIS2:Rize-Artvin Ground
 ATIS3:
 ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_APP:150:5					
+ATIS2:Yesilkoy Approach - DCL Available for [LTFM]					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SEU_APP:150:5					
+ATIS2:Yesilkoy Approach - East Upper					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SWU_APP:150:5					
+ATIS2:Yesilkoy Approach - West Upper					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SWD_APP:150:5					
+ATIS2:Yesilkoy Approach - Director/West Director					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SEF_APP:150:5					
+ATIS2:Yesilkoy Approach - DCL Available for [LTFM]					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SWF_APP:150:5					
+ATIS2:Yesilkoy Approach - West Final					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SAG_APP:150:5					
+ATIS2:Yesilkoy Approach - Gokcen Director			
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:IST_SAD_DEP:150:5					
+ATIS2:Yesilkoy Approach - Istanbul Departure					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SEC_APP:150:5					
+ATIS2:Yesilkoy Approach - East Center					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SED_APP:150:5					
+ATIS2:Yesilkoy Approach - East Director				
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SEN_APP:150:5					
+ATIS2:Yesilkoy Approach - East North					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SES_APP:150:5					
+ATIS2:Yesilkoy Approach - East South					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SWN_APP:150:5					
+ATIS2:Yesilkoy Approach - West North					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:IST_SWS_APP:150:5					
+ATIS2:Yesilkoy Approach - West South					
+ATIS3:Airspace Map - vats.im/tr/sector-map					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTAC_APP:150:5					
+ATIS2:Esenboga Approach					
+ATIS3:vats.im/tr/ltac					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAC_F_APP:150:5					
+ATIS2:Esenboga Approach					
+ATIS3:vats.im/tr/ltac					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAG_APP:150:5					
+ATIS2:Incirlik Approach					
+ATIS3:ATC Service for LTAF and LTAG					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAI_APP:150:5					
+ATIS2:Antalya Approach - DCL Available for [LTAI]					
+ATIS3:vats.im/tr/ltai					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAI_L_APP:150:5					
+ATIS2:Antalya Approach - DCL Available for [LTAI]					
+ATIS3:vats.im/tr/ltai					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAI_F_APP:150:5					
+ATIS2:Antalya Director - DCL Available for [LTAI]					
+ATIS3:vats.im/tr/ltai					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAN_APP:150:5					
+ATIS2:Konya Approach					
+ATIS3:ATC Service for LTAN					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback				
+PROFILE:LTAP_APP:150:5					
+ATIS2:Merzifon Approach					
+ATIS3:ATC Service for LTAP					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAT_APP:150:5					
+ATIS2:Malatya Approach					
+ATIS3:ATC Service for LTAT					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTAU_APP:150:5					
+ATIS2:Kayseri Approach					
+ATIS3:ATC Service for LTAU					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBH_APP:150:5					
+ATIS2:Canakkale Approach					
+ATIS3:ATC Service for LTBH					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback	
+PROFILE:LTBI_APP:150:5
+ATIS2:Eskisehir Approach
+ATIS3:Covering LTBY, LTBI
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback				
+PROFILE:LTBJ_APP:150:5					
+ATIS2:Menderes Approach					
+ATIS3:ATC Service for LTBJ					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTBS_APP:150:5					
+ATIS2:Dalaman Approach					
+ATIS3:ATC Service for LTBS					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback				
+PROFILE:LTBS_S_APP:150:5					
+ATIS2:Dalaman Approach					
+ATIS3:ATC Service for LTBS					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback	
+PROFILE:LTBS_N_APP:150:5					
+ATIS2:Dalaman Approach					
+ATIS3:ATC Service for LTBS					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
+PROFILE:LTBQ_APP:150:5
+ATIS2:Topel Approach
+ATIS3:Covering LTBQ
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback						
+PROFILE:LTCC_APP:150:5					
+ATIS2:Diyarbakir Approach					
+ATIS3:ATC Service for LTCC, LTCR and LTCJ					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTCG_APP:150:5					
+ATIS2:Trabzon Approach					
+ATIS3:ATC Service for LTCG					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
+PROFILE:LTFE_APP:150:5					
+ATIS2:Milas Approach					
+ATIS3:ATC Service for LTFE					
+ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback					
 END

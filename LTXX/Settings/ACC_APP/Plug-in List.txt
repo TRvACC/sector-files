@@ -12,6 +12,9 @@ CCAMS:ACList/Mode S EHS/m_Column_3:GS:4:1:504:0:0:1:CCAMS::
 Euroscope timers plugin:x:1287
 Euroscope timers plugin:y:305
 CCAMS:AutoAssign:1
+CCAMS:codeVFR:1200
+CCAMS:acceptFPLformatICAO:0
+CCAMS:acceptFPLformatFAA:0
 CCAMS:ACList/Mode S EHS/m_Column_4:GS:4:1:504:0:0:1:CCAMS::
 Virtual Controller Assistant:ALT1:LTFM:VADEN4C:4000:1
 Virtual Controller Assistant:ALT:1
@@ -376,8 +379,8 @@ TopSky plugin:ACList/PREACTIVATION LIST/m_OrderingColumn:1
 TopSky plugin:ACList/PREACTIVATION LIST/m_Column_0: Callsign:10:0:10021:6:0:1:TopSky plugin:TopSky plugin:
 TopSky plugin:ACList/PREACTIVATION LIST/m_Column_1:  CFL:6:0:10002:12:99:1:TopSky plugin:TopSky plugin:TopSky plugin
 TopSky plugin:ACList/SECTOR LIST/m_Visible:0
-TopSky plugin:ACList/SECTOR LIST/m_X:898
-TopSky plugin:ACList/SECTOR LIST/m_Y:466
+TopSky plugin:ACList/SECTOR LIST/m_X:0
+TopSky plugin:ACList/SECTOR LIST/m_Y:159
 TopSky plugin:ACList/SECTOR LIST/m_LineNumber:0
 TopSky plugin:ACList/SECTOR LIST/m_Resizable:1
 TopSky plugin:ACList/SECTOR LIST/m_OrderingColumn:3
