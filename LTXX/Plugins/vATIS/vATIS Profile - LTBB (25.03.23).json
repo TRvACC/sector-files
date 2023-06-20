@@ -1,0 +1,1390 @@
+{
+  "Name": "LTBB (25.03.23)",
+  "Composites": [
+    {
+      "Id": "a33d67ac-ca60-4260-b248-eae39299c24b",
+      "Name": "ATATURK",
+      "Identifier": "LTBA",
+      "AtisType": "Combined",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        }
+      ],
+      "AtisFrequency": 28200,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "62836d86-a416-40ed-b7e2-fe7a7f4c2736",
+          "Name": "05",
+          "AirportConditions": "",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 05, EXP ILS Z APCH RWY 05, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "9ac45cc4-19a8-43a4-8b10-e1af2a461cd8",
+          "Name": "23",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 23, EXP ILS Z APCH RWY 23, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [
+        {
+          "Description": null,
+          "Ordinal": 1,
+          "Text": "ATTN LOW VISIBILITY PROC IN PROG",
+          "Enabled": false
+        }
+      ],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 125
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 130
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 135
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 140
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "89d990ac-b1a9-4c82-b79f-465887e009a9",
+      "Name": "BALIKESIR",
+      "Identifier": "LTFD",
+      "AtisType": "Combined",
+      "Contractions": [],
+      "AtisFrequency": 27275,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "953d8f11-ad34-4a17-8a29-3ae26903d99b",
+          "Name": "05",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 05, EXP ILS APCH RWY 05, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "8c9d5242-6be9-45bd-bee6-d6352a82f5c7",
+          "Name": "23",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 23, EXP RNP APCH RWY 23, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 105
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 110
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 115
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 120
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "4fa3a7db-6448-460a-bbda-41e86cf8160d",
+      "Name": "CORLU",
+      "Identifier": "LTBU",
+      "AtisType": "Combined",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        }
+      ],
+      "AtisFrequency": 19925,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "5de7822c-eea7-4cfa-beb5-4d2a96880bb3",
+          "Name": "04",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 04, EXP ILS Z APCH RWY 04, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "69ed24e6-ae42-41f9-9981-ac021b293a78",
+          "Name": "22",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 22, EXP VOR Z APCH RWY 22, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 125
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 130
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 135
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 140
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "467861a4-8e07-48f2-ae69-bbc33f6b8d87",
+      "Name": "DALAMAN",
+      "Identifier": "LTBS",
+      "AtisType": "Combined",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        }
+      ],
+      "AtisFrequency": 27350,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "08d37b0b-5885-47a6-bde9-b2b30fde2782",
+          "Name": "01",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 01, EXP ILS Z APCH RWY 01, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "b9c314f5-a58c-4f99-8605-6f7d56977d2e",
+          "Name": "19",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 19, EXP RNP APCH RWY 19, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 125
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 130
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 135
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 140
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "2ec9993c-fc71-4021-9f30-ad28af11dcfc",
+      "Name": "ISTANBUL ARRIVAL",
+      "Identifier": "LTFM",
+      "AtisType": "Arrival",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        },
+        {
+          "String": "1836",
+          "Spoken": "ONE EIGHT, THREE SIX"
+        }
+      ],
+      "AtisFrequency": 26350,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Id": "f45db87a-a9ce-4d42-a4f3-4089b0d98c00",
+          "Name": "**************** NORTH CONFIG ****************",
+          "AirportConditions": "DO NOT USE THIS CONFIG, SELECT CONFIG YOU WANT FROM THE LIST BELOW.",
+          "Notams": "BU KONFIGURASYONU KULLANMA, ISTEDIGIN KONFIGURASYONU ASAGIDAKI LISTEDEN SEC",
+          "ArbitraryText": null,
+          "Template": null,
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "fb64ef68-a245-453f-9d7b-8e858c1dce82",
+          "Name": "35R - 36",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS X APCH 35R, EXP ILS Y APCH 36. [TL], SIMULTANEOUS INDEPENDENT PARALLEL ILS APCHS IN PROGRESS ON RWYS 35R AND 36. [WX], [NOTAMS], END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "0421a6cc-7a0d-468e-9635-da4b83934c68",
+          "Name": "34L - 35R",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 34L, EXP ILS Y APCH 35R. [TL], SIMULTANEOUS INDEPENDENT PARALLEL ILS APCHS IN PROGRESS ON RWYS 34L AND 35R. [WX], [NOTAMS], END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "e35ca512-dab4-4f15-8df9-e98eb7ff25c7",
+          "Name": "34L - 36",
+          "AirportConditions": null,
+          "Notams": "",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 34L, EXP ILS Y APCH 36. [TL], SIMULTANEOUS INDEPENDENT PARALLEL ILS APCHS IN PROGRESS ON RWYS 34L AND 36. [WX], [NOTAMS], END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "6fdb3231-5d7c-459a-ac69-4f99b36a8779",
+          "Name": "**************** SINGLE RUNWAY OPS ****************",
+          "AirportConditions": "DO NOT USE THIS CONFIG, SELECT CONFIG YOU WANT FROM THE LIST BELOW.",
+          "Notams": "BU KONFIGURASYONU KULLANMA, ISTEDIGIN KONFIGURASYONU ASAGIDAKI LISTEDEN SEC",
+          "ArbitraryText": null,
+          "Template": null,
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "628335a6-bd0e-478b-bc29-b43eb1f56fff",
+          "Name": "34L",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 34L. [TL]. [FULL_WX_STRING]. [NOTAMS]. END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "cecb5698-1667-4e3b-bb9d-6278c58a8b1f",
+          "Name": "35R",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 35R. [TL]. [FULL_WX_STRING]. [NOTAMS]. END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "91785ebb-c28d-445e-9fbf-499b45f13535",
+          "Name": "36",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 36. [TL]. [FULL_WX_STRING]. [NOTAMS]. END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "808a2610-5465-4c15-a44c-3ddb5839e082",
+          "Name": "**************** SOUTH CONFIG ****************",
+          "AirportConditions": "DO NOT USE THIS CONFIG, SELECT CONFIG YOU WANT FROM THE LIST BELOW.",
+          "Notams": "BU KONFIGURASYONU KULLANMA, ISTEDIGIN KONFIGURASYONU ASAGIDAKI LISTEDEN SEC",
+          "ArbitraryText": null,
+          "Template": null,
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "eddff802-0e28-4c3d-a1b7-06a18c1da7f2",
+          "Name": "17L - 18",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS X APCH 17L, EXP ILS Y APCH 18. [TL], SIMULTANEOUS INDEPENDENT PARALLEL ILS APCHS IN PROGRESS ON RWYS 17L AND 18. [WX], [NOTAMS], END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "8302ec76-a155-4578-9403-9969826077ee",
+          "Name": "16R - 18",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 16R, EXP ILS Y APCH 18. [TL], SIMULTANEOUS INDEPENDENT PARALLEL ILS APCHS IN PROGRESS ON RWYS 16R AND 18. [WX], [NOTAMS], END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "023d2223-6b41-491a-ae04-02b7a020191c",
+          "Name": "16R - 17L",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 16R, EXP ILS Y APCH 17L. [TL], SIMULTANEOUS INDEPENDENT PARALLEL ILS APCHS IN PROGRESS ON RWYS 16R AND 17L. [WX], [NOTAMS], END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "f5eb76c4-c313-4fbd-8883-110af6b1ddd4",
+          "Name": "*************** SINGLE RUNWAY OPS ***************",
+          "AirportConditions": "DO NOT USE THIS CONFIG, SELECT CONFIG YOU WANT FROM THE LIST BELOW.",
+          "Notams": "BU KONFIGURASYONU KULLANMA, ISTEDIGIN KONFIGURASYONU ASAGIDAKI LISTEDEN SEC",
+          "ArbitraryText": null,
+          "Template": null,
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "521a3039-d106-479a-aa6f-49e6c94d85b9",
+          "Name": "16R",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 16R. [TL]. [FULL_WX_STRING]. [NOTAMS]. END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "bcb83fa9-1969-4711-aa33-5fb765c23b8c",
+          "Name": "17L",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 17L. [TL]. [FULL_WX_STRING]. [NOTAMS]. END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "1d491029-07bc-4581-9d54-187e7b7e6453",
+          "Name": "18",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Y APCH 18. [TL]. [FULL_WX_STRING]. [NOTAMS]. END OF ARR ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 125
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 130
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 135
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 140
+        }
+      ],
+      "CodeRange": {
+        "Low": "N",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "de16f1a1-a46d-4851-95a7-1c680593f613",
+      "Name": "MENDERES",
+      "Identifier": "LTBJ",
+      "AtisType": "Combined",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        },
+        {
+          "String": "N",
+          "Spoken": "NOVEMBER"
+        },
+        {
+          "String": "J",
+          "Spoken": "JULIET"
+        }
+      ],
+      "AtisFrequency": 29200,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "d701e952-7afb-47c1-8c63-feb6748fcd34",
+          "Name": "34R",
+          "AirportConditions": "",
+          "Notams": "DEP TFC, INTXN J IS MANDATORY, REPORT IF UNABLE TO EXECUTE INTXN DEPS.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 34R, EXP ILS Y APCH RWY 34R, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "776df318-eded-4d51-bcce-a5b14654144b",
+          "Name": "16L",
+          "AirportConditions": null,
+          "Notams": "DEP TFC, INTXN N IS MANDATORY, REPORT IF UNABLE TO EXECUTE INTXN DEPS.",
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 16L, EXP ILS APCH RWY 16L, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [
+        {
+          "Description": null,
+          "Ordinal": 1,
+          "Text": "RWY 16L/34R CLSD.",
+          "Enabled": false
+        },
+        {
+          "Description": null,
+          "Ordinal": 2,
+          "Text": "RWY 16R/34L CLSD.",
+          "Enabled": false
+        }
+      ],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 105
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 110
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 115
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 120
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "21b13320-b87b-4380-8496-fe0bedc13d19",
+      "Name": "MILAS",
+      "Identifier": "LTFE",
+      "AtisType": "Combined",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        }
+      ],
+      "AtisFrequency": 28500,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "d22a8970-8158-4bb3-a8d6-03d7ecaad9df",
+          "Name": "10L",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 10L, EXP ILS Z APCH RWY 10L, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "dd725077-bcdf-4ad1-bca6-b825ff2fd9ee",
+          "Name": "28R",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. RWY 28R, EXP ILS X APCH RWY 28R, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 105
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 110
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 115
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 120
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "007aa455-4fb6-4869-8643-d9a80b1fa77b",
+      "Name": "SABIHA GOKCEN",
+      "Identifier": "LTFJ",
+      "AtisType": "Combined",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        }
+      ],
+      "AtisFrequency": 28550,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "6c54324f-2565-44f3-8fb7-ac28c0ad8bb8",
+          "Name": "06",
+          "AirportConditions": "",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR AND DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Z APCH RWY 06, [TL], CAUTION BIRD HAZARD OVER AND AROUND THE FIELD, [ARPT_COND], [WX], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "feab6d2f-dc02-4b0e-aae6-604105046d17",
+          "Name": "24",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ARR AND DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. EXP ILS Z APCH RWY 24, [TL], CAUTION BIRD HAZARD OVER AND AROUND THE FIELD, [ARPT_COND], [WX], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 125
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 130
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 135
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 140
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "c2b365e2-3c23-4665-ac4a-2eeda6809eff",
+      "Name": "ISTANBUL DEPARTURE",
+      "Identifier": "LTFM",
+      "AtisType": "Departure",
+      "Contractions": [
+        {
+          "String": "1836",
+          "Spoken": "ONE EIGHT, THREE SIX"
+        }
+      ],
+      "AtisFrequency": 28850,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": "",
+      "Presets": [
+        {
+          "Id": "c584d154-7a2b-4308-ad4a-2db4a197d3da",
+          "Name": "**************** NORTH CONFIG ****************",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "554531f6-34af-4867-abd9-bb13d0fabded",
+          "Name": "35L - 36",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. DEP RWYS, 35L, AND, 36. INDEPENDENT PARALEL DEPS IN PROGRESS, CAUT BIRD ACTIVITY, [ARPT_COND]. CAUT DEPTG TFC RWY 1836 HS OF CAT 2 AND CAT 3 HOLDING, [FULL_WX_STRING]. [NOTAMS]. END OF DEP ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "c1e9a85c-0cb4-427c-b834-1336a565d59e",
+          "Name": "34L - 36",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. DEP RWYS, 34L, AND, 36. INDEPENDENT PARALEL DEPS IN PROGRESS, CAUT BIRD ACTIVITY, [ARPT_COND]. CAUT DEPTG TFC RWY 1836 HS OF CAT 2 AND CAT 3 HOLDING, [FULL_WX_STRING]. [NOTAMS]. END OF DEP ATIS INFORMATION, [ATIS_CODE].\r\n",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "4af80548-a205-455d-b7af-a94e717052e0",
+          "Name": "34L - 35L",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. DEP RWYS, 34L, AND, 35L. INDEPENDENT PARALEL DEPS IN PROGRESS, CAUT BIRD ACTIVITY, [ARPT_COND]. [FULL_WX_STRING]. [NOTAMS]. END OF DEP ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "f745958c-38f5-4e00-83cf-0029c3d66712",
+          "Name": "**************** SOUTH CONFIG ****************",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "edb29d7a-3dc6-489f-a825-a2ca203ba5de",
+          "Name": "17R - 18",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. DEP RWYS, 17R, AND, 18. INDEPENDENT PARALEL DEPS IN PROGRESS, CAUT BIRD ACTIVITY, [ARPT_COND]. CAUT DEPTG TFC RWY 1836 HS OF CAT 2 AND CAT 3 HOLDING, [FULL_WX_STRING]. [NOTAMS]. END OF DEP ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "936b871d-0690-4906-92db-6610a1237dc3",
+          "Name": "16R - 18",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. DEP RWYS, 16R, AND, 18. INDEPENDENT PARALEL DEPS IN PROGRESS, CAUT BIRD ACTIVITY, [ARPT_COND]. CAUT DEPTG TFC RWY 1836 HS OF CAT 2 AND CAT 3 HOLDING, [FULL_WX_STRING]. [NOTAMS]. END OF DEP ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        },
+        {
+          "Id": "e935da8a-168a-4363-9ab7-10af67ff9554",
+          "Name": "16R - 17R",
+          "AirportConditions": "DEP FREQ 132.050",
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] DEP ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. DEP RWYS, 16R, AND, 17R. INDEPENDENT PARALEL DEPS IN PROGRESS, CAUT BIRD ACTIVITY, [ARPT_COND]. [FULL_WX_STRING]. [NOTAMS]. END OF DEP ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 125
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 130
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 135
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 140
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "M"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    },
+    {
+      "Id": "0e0ac31c-4845-456d-acc8-03c465967501",
+      "Name": "YENISEHIR",
+      "Identifier": "LTBR",
+      "AtisType": "Combined",
+      "Contractions": [
+        {
+          "String": "X",
+          "Spoken": "EX RAY"
+        },
+        {
+          "String": "Y",
+          "Spoken": "YANKEE"
+        },
+        {
+          "String": "Z",
+          "Spoken": "ZULU"
+        }
+      ],
+      "AtisFrequency": 24575,
+      "ObservationTime": {
+        "Enabled": false,
+        "Time": 0
+      },
+      "MagneticVariation": {
+        "Enabled": false,
+        "MagneticDegrees": 0
+      },
+      "AtisVoice": {
+        "UseTextToSpeech": true,
+        "Voice": "US Male"
+      },
+      "IDSEndpoint": null,
+      "Presets": [
+        {
+          "Id": "8cd12f7f-a873-4451-915c-b2e0354fda31",
+          "Name": "ARR 25R / DEP 07L",
+          "AirportConditions": null,
+          "Notams": null,
+          "ArbitraryText": null,
+          "Template": "[FACILITY] ATIS INFORMATION [ATIS_CODE], [OBS_TIME]. MAIN DEP RWY 07L, EXP ILS Z APCH RWY 25R, [TL], [WX], [NOTAMS], END OF ATIS INFORMATION, [ATIS_CODE].",
+          "ExternalGenerator": {
+            "Enabled": false,
+            "Url": null,
+            "Arrival": null,
+            "Departure": null,
+            "Approaches": null,
+            "Remarks": null
+          }
+        }
+      ],
+      "AirportConditionDefinitions": [],
+      "AirportConditionsBeforeFreeText": false,
+      "NotamDefinitions": [],
+      "NotamsBeforeFreeText": false,
+      "TransitionLevels": [
+        {
+          "Low": 1030,
+          "High": 1051,
+          "Altitude": 125
+        },
+        {
+          "Low": 1013,
+          "High": 1029,
+          "Altitude": 130
+        },
+        {
+          "Low": 997,
+          "High": 1012,
+          "Altitude": 135
+        },
+        {
+          "Low": 980,
+          "High": 996,
+          "Altitude": 140
+        }
+      ],
+      "CodeRange": {
+        "Low": "A",
+        "High": "Z"
+      },
+      "UseFaaFormat": false,
+      "UseNotamPrefix": false,
+      "UseTransitionLevelPrefix": false,
+      "UseMetricUnits": false,
+      "UseSurfaceWindPrefix": false,
+      "UseVisibilitySuffix": false,
+      "UseDecimalTerminology": true,
+      "UseTemperaturePlusPrefix": false,
+      "UseZuluTimeSuffix": true
+    }
+  ]
+}
