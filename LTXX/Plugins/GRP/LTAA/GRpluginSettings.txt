@@ -4,15 +4,15 @@ System_UseReportedGS=0
 System_SchengenArea=LT
 System_SchengenArea_Exclude=A,B,C,D,E,F,G,H,K,LA,LB,LC,LD,LE,LF,LG,LH,LI,LJ,LK,LL,LM,LN,LO,LP,LQ,LR,LS,LU,LV,LW,LX,LY,LZ,M,N,O,P,R,S,T,U,V,W,Y,Z
 
-System_State_OnFreq=STANDBY
-System_State_StartUp=START UP
-System_State_Push=PUSHBACK
-System_State_Taxi_In=TAXI IN
-System_State_Taxi_Out=TAXI OUT
-System_State_LineUp=LINE UP
-System_State_Depa=DEPARTURE
-System_State_DeIce=DEICE
-System_State_Parked=ONBLOCK
+System_State_OnFreq=STB
+System_State_StartUp=STU
+System_State_Push=PB
+System_State_Taxi_In=TX
+System_State_Taxi_Out=TX
+System_State_LineUp=LU
+System_State_Depa=DEP
+System_State_DeIce=DI
+System_State_Parked=OB
 
 Color_Arrival=255,255,0
 Color_Departure=0,255,255

@@ -23,7 +23,7 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2306/1  ++  Valid period: 15/JUN/2023 - 12/JUL/2023  ++  File-Publisher: Turkish vACC - LTXX                     ;
+;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: Turkish vACC - LTXX                     ;
 ;=========================================================================================================================;
 VOICE
 AG:IST_APP Yesilkoy Approach:133.225:novoice:IST_APP
@@ -125,7 +125,7 @@ AG:LTBI_APP Eskisehir Approach:122.100:novoice:LTBI_APP
 AG:LTBI_ATIS:122.425:novoice:LTBI_ATIS
 AG:LTBJ_APP Menderes Approach:119.450:novoice:LTBJ_APP
 AG:LTBJ_ATIS:129.200:novoice:LTBJ_ATIS
-AG:LTBJ_F_APP Menderes Approach:120.100:novoice:LTBJ_F_APP
+AG:LTBJ_F_APP Menderes Approach:134.200:novoice:LTBJ_F_APP
 AG:LTBJ_GND Menderes Ground:121.900:novoice:LTBJ_GND
 AG:LTBJ_TWR Menderes Tower:118.100:novoice:LTBJ_TWR
 AG:LTBO_ATIS:128.525:novoice:LTBO_ATIS
@@ -160,6 +160,7 @@ AG:LTCC_TWR Diyarbakir Tower:118.100:novoice:LTCC_TWR
 AG:LTCD_GND Erzincan Ground:121.900:novoice:LTCD_GND
 AG:LTCD_TWR Erzincan Tower:118.500:novoice:LTCD_TWR
 AG:LTCE_APP Erzurum App:124.300:novoice:LTCE_APP
+AG:LTCE_ATIS:119.800:novoice:LTCE_ATIS
 AG:LTCE_GND Erzurum Ground:121.900:novoice:LTCE_GND
 AG:LTCE_TWR Erzurum Tower:118.700:novoice:LTCE_TWR
 AG:LTCF_GND Kars Ground:121.900:novoice:LTCF_GND

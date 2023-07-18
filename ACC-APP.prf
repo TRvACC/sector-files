@@ -39,6 +39,8 @@ Plugins	Plugin6Display0	Standard ES radar screen
 Plugins	Plugin6Display1	Ground Radar display
 Plugins	Plugin7	\LTXX\Plugins\AMAN\Aman.dll
 Plugins	Plugin7Display0	Standard ES radar screen
+Plugins	Plugin8	\LTXX\Plugins\VCH\VCH.dll
+Plugins	Plugin8Display0	Standard ES radar screen
 Sounds	Sound0	\LTXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LTXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LTXX\Sounds\conflict_alert.wav
@@ -67,6 +69,6 @@ ASRFastKeys	6	\LTXX\ASR\GRP\LTBJ_GRP.asr
 ASRFastKeys	7	\LTXX\ASR\GRP\LTFE_GRP.asr
 ASRFastKeys	8	\LTXX\ASR\GRP\LTBS_GRP.asr
 ASRFastKeys	9	\LTXX\ASR\GRP\LTCG_GRP.asr
-TeamSpeakVccs	TsVccsMiniControlX	709
+TeamSpeakVccs	TsVccsMiniControlX	699
 TeamSpeakVccs	TsVccsMiniControlY	26
 Settings	sector	\Ankara Online.sct

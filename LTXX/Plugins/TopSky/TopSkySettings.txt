@@ -6,17 +6,6 @@ Airspace_SIGMET_Areas=LTAA,LTBB,LBSR,URRV,UDYZ,UKFV,LGGG,LCCC,ORBB,OIIX
 Airspace_NOTAM_Add=LTAA,LTBB
 Airspace_NOTAM_Remove=LGGG,LCCC
 
-AIW=1
-AIW_Type=1
-AIW_FlightRules=2
-AIW_Filter_GS=50
-
-APW_Buffer_Lat_U=0.8
-APW_Buffer_Lat_L_IFR=0.1
-APW_Buffer_Lat_L_VFR=0.1
-
-Areas_Altitude_Filtering=1
-
 Color_Active_Map=255,0,0
 Color_Active_Map_Type_1=255,0,0
 Color_Active_Map_Type_2=80,162,74
@@ -79,7 +68,6 @@ Color_SEP_Tool_3=255,209,143
 Color_SEP_Tool_4=197,64,212
 Color_SEP_Tool_5=166,160,245
 Color_Sid_Star_Allocation=15,185,15
-Color_Sid_Star_No_Allocation=255,170,0
 Color_Suite_Highlight=0,220,255
 Color_SMW_Level_Band=24,209,114
 Color_SMW_Overflight=254,152,1
@@ -114,17 +102,16 @@ Color_WM_Frame=88,95,99
 Color_VFR=55,156,255
 
 CPDLC_MinLevel=245
-CPDLC_Transfer=1
-CPDLC_CFL=1
-CPDLC_DCT=1
-CPDLC_AHDG=1
-CPDLC_ASP=1
+CPDLC_Transfer=0
+CPDLC_CFL=0
+CPDLC_DCT=0
+CPDLC_AHDG=0
+CPDLC_ASP=0
 CPDLC_PDC_PlaySound=1
-CPDLC_AutoAcceptLogon=1
+CPDLC_AutoAcceptLogon=0
 CPDLC_FSM_CLD_Header=<hour><min> <year2><month2><day> <adep2> PDC <number> . . . . . . . . .  
-
-
-Divergence_CLAM_MinCFL=1500
+CPDLC_PDC_Auto_Startup=0
+CPDLC_PDC_Auto=0
 
 HTTP_METAR_Server=http://rasat.trvacc.net
 HTTP_METAR_Page_Prefix=/grp/
@@ -135,79 +122,11 @@ HTTP_METAR_Data_Suffix=</trvacc>
 
 HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&retrieveLocId=
 
-Label_ASP_Digits=3
-Label_CFL_DefaultValue=1
-Label_SI_ShowFreq=1
-
-Label_All_N=1
-
-Label_Co_SQ=0
-Label_Co_ATYP=0
-Label_Co_ATYPW=0
-Label_Co_ADES=0
-Label_Co_NRAC=0
-Label_Co_TSSR=0
-Label_Co_RFL=0
-Label_Co_FCOPX=0
-Label_Co_WTC=0
-Label_Co_GS=0
-Label_Co_COPN=0
-Label_Co_XFL=1
-Label_Co_ASP=1
-Label_Co_PEL=1
-
-Label_Ass_SQ=0
-Label_Ass_ATYP=0
-Label_Ass_ATYPW=0
-Label_Ass_ADES=0
-Label_Ass_NRAC=0
-Label_Ass_TSSR=0
-Label_Ass_RFL=0
-Label_Ass_FCOPX=0
-Label_Ass_WTC=0
-Label_Ass_GS=0
-Label_Ass_COPX=0
-Label_Ass_XFL=1
-Label_Ass_ASP=1
-
-Label_Red_SQ=0
-Label_Red_ATYP=0
-Label_Red_ATYPW=0
-Label_Red_ADES=0
-Label_Red_NRAC=0
-Label_Red_TSSR=0
-Label_Red_RFL=0
-Label_Red_FCOPX=0
-Label_Red_WTC=0
-Label_Red_GS=0
-Label_Red_COPX=0
-Label_Red_XFL=0
-Label_Red_ASP=1
-
-Label_No_SQ=0
-Label_No_ATYP=0
-Label_No_ATYPW=0
-Label_No_ADES=0
-Label_No_NRAC=0
-Label_No_TSSR=0
-Label_No_RFL=0
-Label_No_FCOPX=0
-Label_No_WTC=0
-Label_No_GS=0
-
 Menu_Level_MaxValue=660
-
-MSAW_Buffer_IFR=1500
 
 RDF_Mode=-1
 
-RwyAppLines_Length=20
-RwyAppLines_Markers=19
-RwyAppLines_MarkerSpacing=1
 RwyAppLines_Auto=0
-
-STCA_Sep_Lat_SepLevel=19500
-STCA_Floor=1500
 
 System_TrueColorMode=1
 System_TransferConfirmation=0
@@ -215,22 +134,13 @@ System_UseScreenLat=0
 System_MetarSourceVATSIM=0
 System_QNHTL_ForceMetarSourceVATSIM=0
 System_UseAcceptedCoordColor=1
+System_UseRwyLockedColor=1
 System_MagModel_Type=2
 
 Track_PredictionLine=0
 
-Vector_AHDG_Label_Dist=1
-Vector_AHDG_Label_Time=1
-
-WXR_Latitude=39
-WXR_Latitude_Max=43
-WXR_Latitude_Min=35
-WXR_Longitude=34
-WXR_Longitude_Max=45
-WXR_Longitude_Min=25
-WXR_ImageSize=256
-
-Window_CPDLC_Setting=1,1,650
+Window_CPDLC_Current=-1,1,511
+Window_CPDLC_Setting=-1,1,580
 Window_CARD=-1,1620,820
 Window_QNHTL=-1,1408,42
 Window_QNHTL_HighlightChanges=0
@@ -251,7 +161,6 @@ Color_Redundant=220,220,220
 Color_Coordination=220,220,220
 AIW=0
 [_DEL]
-Window_CPDLC_Current=1,1,375
 Window_CARD=-1,1495,630
 Window_QNHTL=-1,1495,105
 MTCD=0
@@ -261,7 +170,6 @@ Divergence_RAM=0
 Window_LFUNCFP=1,1032,42
 AIW=0
 [_GND]
-Window_CPDLC_Current=1,1,375
 Window_CARD=-1,1495,630
 Window_QNHTL=-1,1495,105
 MTCD=0
@@ -271,14 +179,13 @@ Divergence_RAM=0
 Window_LFUNCFP=1,1032,42
 AIW=0
 [_TWR]
-Window_CPDLC_Current=1,1,375
 Window_CARD=-1,1495,630
 Window_QNHTL=-1,1495,105
 MTCD=0
 Track_HistoryDots=0
 Divergence_CLAM=0
 Divergence_RAM=0
-Label_WTC_Highlight_ATYP=DC10,MD11,B744,B748,B742,B743,B741,A388
+Label_WTG_Highlight_ATYP=B748,A388
 Window_LFUNCFP=1,1032,42
 AIW=0
 [_APP]
@@ -294,6 +201,14 @@ Window_WxMsgs=1,1408,190
 [_CTR]
 Window_CPDLC_Current=1,1,580
 System_FPASD=1
-Label_WTC_Highlight_ATYP=DC10,MD11,B744,B748,B742,B743,B741,A388
+Label_WTG_Highlight_ATYP=B748,A388
 Window_LFUNCFP=1,1070,42
 Window_WxMsgs=1,1408,190
+
+[LTFM_]
+Window_CPDLC_Current=1,1,511
+Window_CPDLC_Setting=1,1,580
+
+[LTAI_]
+Window_CPDLC_Current=1,1,511
+Window_CPDLC_Setting=1,1,580

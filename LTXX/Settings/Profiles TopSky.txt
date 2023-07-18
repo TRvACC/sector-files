@@ -8,7 +8,7 @@ ATIS2:Ankara Control CPDLC above FL245 [LTBB]
 ATIS3:Covering West of Turkiye - Whole of LTBB FIR
 ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
 PROFILE:LTAA_S_CTR:300:6
-ATIS2:Ankara Control CPDLC above FL245 [LTBS]
+ATIS2:Ankara Control CPDLC above FL245 [LTAS]
 ATIS3:Covering LTAH, FC, AI, AN, FG, AF, CN, AJ, DA
 ATIS4:Info at trvacc.net - Feedback at vats.im/tr/feedback
 PROFILE:LTAA_CTR:300:6

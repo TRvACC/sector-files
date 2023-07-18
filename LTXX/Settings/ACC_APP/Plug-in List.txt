@@ -19,7 +19,7 @@ CCAMS:ACList/Mode S EHS/m_Column_4:GS:4:1:504:0:0:1:CCAMS::
 Virtual Controller Assistant:ALT1:LTFM:VADEN4C:4000:1
 Virtual Controller Assistant:ALT:1
 Virtual Controller Assistant:ALT2:LTFM:TUDBU4C:4000:1
-Virtual Controller Assistant:ALT3:LTFM:IBLAL4C:4000:1
+Virtual Controller Assistant:ALT3:LTFM:IBLAX4C:4000:1
 Virtual Controller Assistant:ALT4:LTFM:MAKOL4C:4000:1
 Virtual Controller Assistant:ALT5:LTFM:RATVU4C:4000:1
 Virtual Controller Assistant:ALT6:LTFM:BARPE4C:4000:1
@@ -27,7 +27,7 @@ Virtual Controller Assistant:ALT7:LTFM:IBGUS4C:4000:1
 Virtual Controller Assistant:ALT8:LTFM:ASMAP4C:4000:1
 Virtual Controller Assistant:ALT9:LTFM:VADEN4D:5000:1
 Virtual Controller Assistant:ALT10:LTFM:TUDBU4D:5000:1
-Virtual Controller Assistant:ALT11:LTFM:IBLAL4D:5000:1
+Virtual Controller Assistant:ALT11:LTFM:IBLAX4D:5000:1
 Virtual Controller Assistant:ALT12:LTFM:MAKOL4D:5000:1
 Virtual Controller Assistant:ALT13:LTFM:RATVU4D:5000:1
 Virtual Controller Assistant:ALT14:LTFM:BARPE4D:5000:1
@@ -35,7 +35,7 @@ Virtual Controller Assistant:ALT15:LTFM:IVGUS4D:5000:1
 Virtual Controller Assistant:ALT16:LTFM:ASMAP4D:5000:1
 Virtual Controller Assistant:ALT17:LTFM:VADEN4E:8000:1
 Virtual Controller Assistant:ALT18:LTFM:TUDBU4E:8000:1
-Virtual Controller Assistant:ALT19:LTFM:IBLAL4E:8000:1
+Virtual Controller Assistant:ALT19:LTFM:IBLAX4E:8000:1
 Virtual Controller Assistant:ALT20:LTFM:MAKOL4E:8000:1
 Virtual Controller Assistant:ALT21:LTFM:RATVU4E:8000:1
 Virtual Controller Assistant:ALT22:LTFM:BARPE4E:8000:1
@@ -43,7 +43,7 @@ Virtual Controller Assistant:ALT23:LTFM:IVGUS4E:8000:1
 Virtual Controller Assistant:ALT24:LTFM:ASMAP4E:8000:1
 Virtual Controller Assistant:ALT25:LTFM:VADEN4F:4000:1
 Virtual Controller Assistant:ALT26:LTFM:TUDBU4F:4000:1
-Virtual Controller Assistant:ALT27:LTFM:IBLAL4F:4000:1
+Virtual Controller Assistant:ALT27:LTFM:IBLAX4F:4000:1
 Virtual Controller Assistant:ALT28:LTFM:MAKOL4F:4000:1
 Virtual Controller Assistant:ALT29:LTFM:RATVU4F:4000:1
 Virtual Controller Assistant:ALT30:LTFM:BARPE4F:4000:1
@@ -51,7 +51,7 @@ Virtual Controller Assistant:ALT31:LTFM:IVGUS4F:4000:1
 Virtual Controller Assistant:ALT32:LTFM:ASMAP4F:4000:1
 Virtual Controller Assistant:ALT33:LTFM:VADEN4G:5000:1
 Virtual Controller Assistant:ALT34:LTFM:TUDBU4G:5000:1
-Virtual Controller Assistant:ALT35:LTFM:IBLAL4G:5000:1
+Virtual Controller Assistant:ALT35:LTFM:IBLAX4G:5000:1
 Virtual Controller Assistant:ALT36:LTFM:MAKOL4G:5000:1
 Virtual Controller Assistant:ALT37:LTFM:RATVU4G:5000:1
 Virtual Controller Assistant:ALT38:LTFM:BARPE4G:5000:1
@@ -59,7 +59,7 @@ Virtual Controller Assistant:ALT39:LTFM:IVGUS4G:5000:1
 Virtual Controller Assistant:ALT40:LTFM:ASMAP4G:5000:1
 Virtual Controller Assistant:ALT41:LTFM:VADEN4H:8000:1
 Virtual Controller Assistant:ALT42:LTFM:TUDBU4H:8000:1
-Virtual Controller Assistant:ALT43:LTFM:IBLAL4H:8000:1
+Virtual Controller Assistant:ALT43:LTFM:IBLAX4H:8000:1
 Virtual Controller Assistant:ALT44:LTFM:MAKOL4H:8000:1
 Virtual Controller Assistant:ALT45:LTFM:RATVU4H:8000:1
 Virtual Controller Assistant:ALT46:LTFM:BARPE4H:8000:1
@@ -79,10 +79,10 @@ Virtual Controller Assistant:ALT59:LTFJ:BARPE3J:7000:1
 Virtual Controller Assistant:ALT60:LTFJ:IVGUS3J:7000:1
 Virtual Controller Assistant:ALT61:LTFJ:VADEN3J:7000:1
 Virtual Controller Assistant:ALT62:LTFJ:TUDBU3J:7000:1
-Virtual Controller Assistant:ALT63:LTFJ:IBLAL3J:7000:1
+Virtual Controller Assistant:ALT63:LTFJ:IBLAX3J:7000:1
 Virtual Controller Assistant:ALT61:LTFJ:VADEN3L:7000:1
 Virtual Controller Assistant:ALT62:LTFJ:TUDBU3L:7000:1
-Virtual Controller Assistant:ALT63:LTFJ:IBLAL3L:7000:1
+Virtual Controller Assistant:ALT63:LTFJ:IBLAX3L:7000:1
 Virtual Controller Assistant:ALT64:LTFJ:MAKOL3L:7000:1
 Virtual Controller Assistant:ALT65:LTFJ:ASMAP3K:7000:1
 Virtual Controller Assistant:ALT66:LTFJ:ROXUK3K:7000:1
@@ -92,7 +92,7 @@ Virtual Controller Assistant:ALT69:LTFJ:BARPE3K:7000:1
 Virtual Controller Assistant:ALT70:LTFJ:IVGUS3K:7000:1
 Virtual Controller Assistant:ALT71:LTFJ:VADEN3K:7000:1
 Virtual Controller Assistant:ALT72:LTFJ:TUDBU3K:7000:1
-Virtual Controller Assistant:ALT73:LTFJ:IBLAL3K:7000:1
+Virtual Controller Assistant:ALT73:LTFJ:IBLAX3K:7000:1
 Virtual Controller Assistant:ALT74:LTFJ:BARPE3M:7000:1
 Virtual Controller Assistant:ALT75:LTFJ:IVGUS3M:7000:1
 Virtual Controller Assistant:ALT76:LTAC:ASTAL1T:14000:1
@@ -179,28 +179,28 @@ Virtual Controller Assistant:ALT156:LTBS:ERFES1U:11000:1
 Virtual Controller Assistant:ALT157:LTBS:RIVBU1J:11000:1
 Virtual Controller Assistant:ALT158:LTBS:RIVBU1U:11000:1
 Virtual Controller Assistant:ALT159:LTBS:SOTIV1U:11000:1
-Virtual Controller Assistant:ALT160:LTAI:HISAR1B:11000:1
-Virtual Controller Assistant:ALT161:LTAI:PIDEV1B:11000:1
-Virtual Controller Assistant:ALT162:LTAI:ADBEL1B:11000:1
-Virtual Controller Assistant:ALT163:LTAI:KULOL1B:11000:1
-Virtual Controller Assistant:ALT164:LTAI:GELKI1B:11000:1
-Virtual Controller Assistant:ALT165:LTAI:TOMBI1B:11000:1
-Virtual Controller Assistant:ALT166:LTAI:LORKO1B:11000:1
-Virtual Controller Assistant:ALT167:LTAI:EVBOL1B:11000:1
-Virtual Controller Assistant:ALT168:LTAI:NESIL1B:11000:1
-Virtual Controller Assistant:ALT169:LTAI:EKSEN1B:11000:1
-Virtual Controller Assistant:ALT170:LTAI:EKNUD1B:11000:1
-Virtual Controller Assistant:ALT171:LTAI:HISAR1C:11000:1
-Virtual Controller Assistant:ALT172:LTAI:PIDEV1C:11000:1
-Virtual Controller Assistant:ALT173:LTAI:ADBEL1C:11000:1
-Virtual Controller Assistant:ALT174:LTAI:KULOL1C:11000:1
-Virtual Controller Assistant:ALT175:LTAI:GELKI1C:11000:1
-Virtual Controller Assistant:ALT176:LTAI:TOMBI1C:11000:1
-Virtual Controller Assistant:ALT177:LTAI:LORKO1C:11000:1
-Virtual Controller Assistant:ALT178:LTAI:EVBOL1C:11000:1
-Virtual Controller Assistant:ALT179:LTAI:NESIL1C:11000:1
-Virtual Controller Assistant:ALT180:LTAI:EKSEN1C:11000:1
-Virtual Controller Assistant:ALT181:LTAI:EKNUD1C:11000:1
+Virtual Controller Assistant:ALT160:LTAI:HISAR1W:11000:1
+Virtual Controller Assistant:ALT161:LTAI:PIDEV1W:11000:1
+Virtual Controller Assistant:ALT162:LTAI:ADBEL1W:11000:1
+Virtual Controller Assistant:ALT163:LTAI:KULOL1W:11000:1
+Virtual Controller Assistant:ALT164:LTAI:GELKI1W:11000:1
+Virtual Controller Assistant:ALT165:LTAI:TOMBI1W:11000:1
+Virtual Controller Assistant:ALT166:LTAI:LORKO1W:11000:1
+Virtual Controller Assistant:ALT167:LTAI:EVBOL1W:11000:1
+Virtual Controller Assistant:ALT168:LTAI:NESIL1W:11000:1
+Virtual Controller Assistant:ALT169:LTAI:EKSEN1W:11000:1
+Virtual Controller Assistant:ALT170:LTAI:EKNUD1W:11000:1
+Virtual Controller Assistant:ALT171:LTAI:HISAR1X:11000:1
+Virtual Controller Assistant:ALT172:LTAI:PIDEV1X:11000:1
+Virtual Controller Assistant:ALT173:LTAI:ADBEL1X:11000:1
+Virtual Controller Assistant:ALT174:LTAI:KULOL1X:11000:1
+Virtual Controller Assistant:ALT175:LTAI:GELKI1X:11000:1
+Virtual Controller Assistant:ALT176:LTAI:TOMBI1X:11000:1
+Virtual Controller Assistant:ALT177:LTAI:LORKO1X:11000:1
+Virtual Controller Assistant:ALT178:LTAI:EVBOL1X:11000:1
+Virtual Controller Assistant:ALT179:LTAI:NESIL1X:11000:1
+Virtual Controller Assistant:ALT180:LTAI:EKSEN1X:11000:1
+Virtual Controller Assistant:ALT181:LTAI:EKNUD1X:11000:1
 Virtual Controller Assistant:ALT182:LTAI:HISAR1K:11000:1
 Virtual Controller Assistant:ALT183:LTAI:PIDEV1K:11000:1
 Virtual Controller Assistant:ALT184:LTAI:ADBEL1K:11000:1
@@ -264,7 +264,7 @@ Virtual Controller Assistant:ALT241:LTAF:TUNLA1B:15000:1
 Virtual Controller Assistant:ALT242:LTAF:MILBA1B:15000:1
 Virtual Controller Assistant:ALT243:LTBA:VADEN3A:3000:1
 Virtual Controller Assistant:ALT244:LTBA:TUDBU3A:3000:1
-Virtual Controller Assistant:ALT245:LTBA:IBLAL3A:3000:1
+Virtual Controller Assistant:ALT245:LTBA:IBLAX3A:3000:1
 Virtual Controller Assistant:ALT246:LTBA:MAKOL3A:3000:1
 Virtual Controller Assistant:ALT247:LTBA:IVGUS3A:3000:1
 Virtual Controller Assistant:ALT248:LTBA:BARPE3A:3000:1
@@ -273,7 +273,7 @@ Virtual Controller Assistant:ALT250:LTBA:ASMAP3A:3000:1
 Virtual Controller Assistant:ALT251:LTBA:ROXUK3A:3000:1
 Virtual Controller Assistant:ALT252:LTBA:VADEN3B:3000:1
 Virtual Controller Assistant:ALT253:LTBA:TUDBU3B:3000:1
-Virtual Controller Assistant:ALT254:LTBA:IBLAL3B:3000:1
+Virtual Controller Assistant:ALT254:LTBA:IBLAX3B:3000:1
 Virtual Controller Assistant:ALT255:LTBA:MAKOL3B:3000:1
 Virtual Controller Assistant:ALT256:LTBA:IVGUS3B:3000:1
 Virtual Controller Assistant:ALT257:LTBA:BARPE3B:3000:1
@@ -282,7 +282,7 @@ Virtual Controller Assistant:ALT259:LTBA:ASMAP3B:3000:1
 Virtual Controller Assistant:ALT260:LTBA:ROXUK3B:3000:1
 Virtual Controller Assistant:ALT261:LTBA:VADEN3P:3000:1
 Virtual Controller Assistant:ALT262:LTBA:TUDBU3P:3000:1
-Virtual Controller Assistant:ALT263:LTBA:IBLAL3P:3000:1
+Virtual Controller Assistant:ALT263:LTBA:IBLAX3P:3000:1
 Virtual Controller Assistant:ALT264:LTBA:MAKOL3P:3000:1
 Virtual Controller Assistant:ALT265:LTBA:IVGUS3P:3000:1
 Virtual Controller Assistant:ALT266:LTBA:BARPE3P:3000:1
@@ -615,4 +615,7 @@ Virtual Controller Assistant:TOTCOL:16508866
 Virtual Controller Assistant:LDTCOL:7972310
 Virtual Controller Assistant:MODTCOL:8486256
 Virtual Controller Assistant:SQK:0
+VCH:vch_ctl:25.000000
+VCH:vch_ctl_t:1
+VCH:vch_blink:1
 END
