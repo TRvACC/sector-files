@@ -1,0 +1,2 @@
+System_GUI_Font_Fixed_1=Lucida Sans Unicode
+System_GUI_Font_Fixed_1_Size=12

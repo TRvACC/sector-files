@@ -1,4 +1,4 @@
-RecentFiles	Recent1	\LTXX\ASR\GRP\LTAI\LTAI_GND_DEL.asr
+RecentFiles	Recent1	\LTXX\ASR\GRP\LTFM\LTFM_TWR.asr
 Settings	SettingsfileSYMBOLOGY	\LTXX\Settings\GRP\Symbology.txt
 Settings	SettingsfileVOICE	\LTXX\Settings\VoiceChannels.txt
 Settings	SettingsfilePROFILE	\LTXX\Settings\Profiles.txt
@@ -40,6 +40,7 @@ Plugins	Plugin7	\LTXX\Plugins\CDM\CDM.dll
 Plugins	Plugin7Display0	Ground Radar display
 Plugins	Plugin8	\LTXX\Plugins\VCH\VCH.dll
 Plugins	Plugin8Display0	Ground Radar display
+Plugins	Plugin9	\LTXX\Plugins\VFPC\VFPC.dll
 Sounds	Sound0	\LTXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LTXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LTXX\Sounds\conflict_alert.wav
@@ -69,8 +70,39 @@ ASRFastKeys	7	\LTXX\ASR\GRP\LTAC\LTAC_TWR.asr
 ASRFastKeys	8	\LTXX\ASR\GRP\LTAC\LTAC_GND_DEL.asr
 TeamSpeakVccs	TsVccsMiniControlX	691
 TeamSpeakVccs	TsVccsMiniControlY	26
-TeamSpeakVccs	Ts3DialogLeft	221
-TeamSpeakVccs	Ts3DialogTop	200
-TeamSpeakVccs	Ts3DialogRight	1122
-TeamSpeakVccs	Ts3DialogBottom	800
-Settings	sector	\Ankara Online.sct
+TeamSpeakVccs	Ts3DialogLeft	682
+TeamSpeakVccs	Ts3DialogTop	251
+TeamSpeakVccs	Ts3DialogRight	1583
+TeamSpeakVccs	Ts3DialogBottom	851
+Settings	sector	\LTXX-LTXX_20230909094702-230901-0006.sct
+LastSession	atis_freq4	118000
+RecentFiles	Recent2	\LTXX\ASR\GRP\LTFM\LTFM_GND_DEL.asr
+RecentFiles	Recent3	\LTXX\ASR\GRP\LTFJ\LTFJ_GND_DEL.asr
+Plugins	Plugin10	\LTXX\Plugins\VATCAN\VATCANBookings.dll
+Plugins	Plugin10Display0	Ground Radar display
+LastSession	connecttype	0
+LastSession	callsign	LTFM_M_TWR
+LastSession	realname	Alp Deniz Senyurt
+LastSession	certificate	1230936
+LastSession	password	
+LastSession	facility	4
+LastSession	rating	4
+LastSession	server	AUTOMATIC
+LastSession	tovatsim	1
+LastSession	atis2	Istanbul Tower - DCL [LTFM]
+LastSession	atis3	Detailed Info - Vats.im/tr/wiki_ltfm
+LastSession	atis4	Info at trvacc.net - Feedback at vats.im/tr/feedback
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+TeamSpeakVccs	Ts3G2GPtt	1900544
+TeamSpeakVccs	Ts3NickName	1230936
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	SteelSeries Sonar - Chat (SteelSeries Sonar Virtual Audio Device)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	SteelSeries Sonar - Microphone (SteelSeries Sonar Virtual Audio Device)
+RecentFiles	Recent4	\LTXX\ASR\GRP\LTAC\LTAC_GND_DEL.asr
+RecentFiles	Recent5	\LTXX\ASR\GRP\LTAC\LTAC_TWR.asr
+RecentFiles	Recent6	\LTXX\ASR\GRP\LTAI\LTAI_GND_DEL.asr
+RecentFiles	Recent7	\LTXX\ASR\GRP\LTAI\LTAI_TWR.asr
+RecentFiles	Recent8	\LTXX\ASR\GRP\LTFJ\LTFJ_TWR.asr

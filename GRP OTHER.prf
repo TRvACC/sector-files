@@ -30,14 +30,13 @@ Plugins	Plugin2	\LTXX\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin3	\LTXX\Plugins\RDF\RDFPlugin.dll
 Plugins	Plugin3Display0	Standard ES radar screen
-Plugins	Plugin4	\LTXX\Plugins\Virtual Controller Assistant\VirtualControllerAssistant.dll
-Plugins	Plugin5	\LTXX\Plugins\TopSky\TopSky.dll
-Plugins	Plugin5Display0	Standard ES radar screen
-Plugins	Plugin5Display1	Ground Radar display
-Plugins	Plugin6	\LTXX\Plugins\GRP\Other\GRplugin.dll
+Plugins	Plugin4	\LTXX\Plugins\TopSky\TopSky.dll
+Plugins	Plugin4Display0	Standard ES radar screen
+Plugins	Plugin4Display1	Ground Radar display
+Plugins	Plugin5	\LTXX\Plugins\GRP\Other\GRplugin.dll
+Plugins	Plugin5Display0	Ground Radar display
+Plugins	Plugin6	\LTXX\Plugins\VCH\VCH.dll
 Plugins	Plugin6Display0	Ground Radar display
-Plugins	Plugin7	\LTXX\Plugins\VCH\VCH.dll
-Plugins	Plugin7Display0	Ground Radar display
 Sounds	Sound0	\LTXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LTXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LTXX\Sounds\conflict_alert.wav
@@ -64,4 +63,4 @@ ASRFastKeys	4	\LTXX\ASR\GRP\LTFE_GRP.asr
 ASRFastKeys	5	\LTXX\ASR\GRP\LTFH_GRP.asr
 TeamSpeakVccs	TsVccsMiniControlX	533
 TeamSpeakVccs	TsVccsMiniControlY	26
-Settings	sector	\Ankara Online.sct
+Settings	sector	\LTXX-LTXX_20230909094702-230901-0006.sct

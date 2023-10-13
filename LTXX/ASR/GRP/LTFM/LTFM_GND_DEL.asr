@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:
-SECTORTITLE:
+SECTORFILE:D:\Euroscope\LTXX-2309\LTXX-LTXX_20230909094702-230901-0006.sct
+SECTORTITLE:LTXX-LTXX_20230909094702-230901-0006.sct
 ARTCC boundary:FIR border LTAA:
 ARTCC boundary:FIR border LTBB:
 SHOWC:0
@@ -18,7 +18,7 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:41.240560:28.655808:41.307017:28.822395
+WINDOWAREA:41.242694:28.634784:41.310421:28.801372
 PLUGIN:Ground Radar plugin:AirportElevation:325
 PLUGIN:Ground Radar plugin:AirportRadius:2.5
 PLUGIN:Ground Radar plugin:GroundMode:LTFM

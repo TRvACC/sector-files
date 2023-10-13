@@ -23,9 +23,39 @@
 ;  only. The data must not be copied, photocopied, translated, reverse engineered, decompiled or reduced to any           ;
 ;  electronic medium or machine legible form, neither completely nor in part.                                             ;
 ;=========================================================================================================================;
-;  AIRAC 2307/1  ++  Valid period: 13/JUL/2023 - 09/AUG/2023  ++  File-Publisher: Turkish vACC - LTXX                     ;
+;  AIRAC 2309/1  ++  Valid period: 07/SEP/2023 - 04/OCT/2023  ++  File-Publisher: Turkish vACC - LTXX                     ;
 ;=========================================================================================================================;
 VOICE
+AG:ANK_10_CTR Ankara Control:127.850:novoice:ANK_10_CTR
+AG:ANK_11_CTR Ankara Control:127.925:novoice:ANK_11_CTR
+AG:ANK_12_CTR Ankara Control:133.550:novoice:ANK_12_CTR
+AG:ANK_13_CTR Ankara Control:128.450:novoice:ANK_13_CTR
+AG:ANK_14_CTR Ankara Control:128.650:novoice:ANK_14_CTR
+AG:ANK_15_CTR Ankara Control:128.750:novoice:ANK_15_CTR
+AG:ANK_16_CTR Ankara Control:128.800:novoice:ANK_16_CTR
+AG:ANK_17_CTR Ankara Control:129.300:novoice:ANK_17_CTR
+AG:ANK_18_CTR Ankara Control:129.450:novoice:ANK_18_CTR
+AG:ANK_19_CTR Ankara Control:130.125:novoice:ANK_19_CTR
+AG:ANK_1_CTR Ankara Control:132.600:novoice:ANK_1_CTR
+AG:ANK_2_CTR Ankara Control:130.400:novoice:ANK_2_CTR
+AG:ANK_3_CTR Ankara Control:136.600:novoice:ANK_3_CTR
+AG:ANK_4_CTR Ankara Control:119.575:novoice:ANK_4_CTR
+AG:ANK_5_CTR Ankara Control:128.625:novoice:ANK_5_CTR
+AG:ANK_6_CTR Ankara Control:128.925:novoice:ANK_6_CTR
+AG:ANK_7_CTR Ankara Control:124.125:novoice:ANK_7_CTR
+AG:ANK_8_CTR Ankara Control:125.950:novoice:ANK_8_CTR
+AG:ANK_9_CTR Ankara Control:126.250:novoice:ANK_9_CTR
+AG:ANK_A_CTR Ankara Control:133.675:novoice:ANK_A_CTR
+AG:ANK_CTR Ankara Control:129.425:novoice:ANK_CTR
+AG:ANK_C_CTR Ankara Control:119.425:novoice:ANK_C_CTR
+AG:ANK_EN_CTR Ankara Control:122.275:novoice:ANK_EN_CTR
+AG:ANK_ES_CTR Ankara Control:124.075:novoice:ANK_ES_CTR
+AG:ANK_E_CTR Ankara Control:121.450:novoice:ANK_E_CTR
+AG:ANK_N_CTR Ankara Control:118.550:novoice:ANK_N_CTR
+AG:ANK_S_CTR Ankara Control:120.275:novoice:ANK_S_CTR
+AG:ANK_WN_CTR Ankara Control:119.300:novoice:ANK_WN_CTR
+AG:ANK_WS_CTR Ankara Control:132.400:novoice:ANK_WS_CTR
+AG:ANK_W_CTR Ankara Control:132.150:novoice:ANK_W_CTR
 AG:IST_APP Yesilkoy Approach:133.225:novoice:IST_APP
 AG:IST_SAD_DEP Yesilkoy Departure:131.125:novoice:IST_SAD_DEP
 AG:IST_SAG_APP Yesilkoy Approach:126.425:novoice:IST_SAG_APP
@@ -40,23 +70,6 @@ AG:IST_SWF_APP Yesilkoy Approach:132.475:novoice:IST_SWF_APP
 AG:IST_SWN_APP Yesilkoy Approach:121.250:novoice:IST_SWN_APP
 AG:IST_SWS_APP Yesilkoy Approach:119.350:novoice:IST_SWS_APP
 AG:IST_SWU_APP Yesilkoy Approach:127.100:novoice:IST_SWU_APP
-AG:LTAA_1_CTR Ankara Control:118.550:novoice:LTAA_1_CTR
-AG:LTAA_2_CTR Ankara Control:120.275:novoice:LTAA_2_CTR
-AG:LTAA_3_CTR Ankara Control:133.550:novoice:LTAA_3_CTR
-AG:LTAA_4_CTR Ankara Control:128.650:novoice:LTAA_4_CTR
-AG:LTAA_5_CTR Ankara Control:132.900:novoice:LTAA_5_CTR
-AG:LTAA_6_CTR Ankara Control:130.400:novoice:LTAA_6_CTR
-AG:LTAA_7_CTR Ankara Control:127.925:novoice:LTAA_7_CTR
-AG:LTAA_8_CTR Ankara Control:129.300:novoice:LTAA_8_CTR
-AG:LTAA_9_CTR Ankara Control:135.575:novoice:LTAA_9_CTR
-AG:LTAA_A_CTR Ankara Control:133.675:novoice:LTAA_A_CTR
-AG:LTAA_B_CTR Ankara Control:131.050:novoice:LTAA_B_CTR
-AG:LTAA_CTR Ankara Control:129.425:novoice:LTAA_CTR
-AG:LTAA_C_CTR Ankara Control:128.450:novoice:LTAA_C_CTR
-AG:LTAA_E_CTR Ankara Control:122.250:novoice:LTAA_E_CTR
-AG:LTAA_N_CTR Ankara Control:124.125:novoice:LTAA_N_CTR
-AG:LTAA_S_CTR Ankara Control:124.075:novoice:LTAA_S_CTR
-AG:LTAA_Y_CTR Ankara Control:128.800:novoice:LTAA_Y_CTR
 AG:LTAC_APP Esenboga Approach:119.100:novoice:LTAC_APP
 AG:LTAC_ATIS:123.600:novoice:LTAC_ATIS
 AG:LTAC_DEL Esenboga Delivery:118.525:novoice:LTAC_DEL
@@ -113,9 +126,6 @@ AG:LTAZ_TWR Tuzkoy Tower:120.350:novoice:LTAZ_TWR
 AG:LTBA_AD_DEP Istanbul Departure:131.125:novoice:LTBA_AD_DEP
 AG:LTBA_ATIS:128.200:novoice:LTBA_ATIS
 AG:LTBA_TWR Yesilkoy Tower:118.100:novoice:LTBA_TWR
-AG:LTBB_CTR Ankara Control:132.150:novoice:LTBB_CTR
-AG:LTBB_N_CTR Ankara Control:119.300:novoice:LTBB_N_CTR
-AG:LTBB_S_CTR Ankara Control:119.575:novoice:LTBB_S_CTR
 AG:LTBD_GND Cildir Ground:121.900:novoice:LTBD_GND
 AG:LTBD_TWR Cildir Tower:124.450:novoice:LTBD_TWR
 AG:LTBH_APP Canakkale Approach:128.250:novoice:LTBH_APP
@@ -173,6 +183,7 @@ AG:LTCI_ATIS:125.400:novoice:LTCI_ATIS
 AG:LTCI_GND Van Ground:121.900:novoice:LTCI_GND
 AG:LTCI_TWR Van Tower:118.750:novoice:LTCI_TWR
 AG:LTCJ_TWR Batman Tower:122.100:novoice:LTCJ_TWR
+AG:LTCK_GND Mus GND:121.675:novoice:LTCK_GND
 AG:LTCK_TWR Mus Tower:122.100:novoice:LTCK_TWR
 AG:LTCL_GND Siirt Ground:121.900:novoice:LTCL_GND
 AG:LTCL_TWR Siirt Tower:132.050:novoice:LTCL_TWR
@@ -227,6 +238,7 @@ AG:LTFM_DEL Istanbul Clearance:121.700:novoice:LTFM_DEL
 AG:LTFM_D_ATIS:128.850:novoice:LTFM_D_ATIS
 AG:LTFM_E_GND Istanbul Ground:126.925:novoice:LTFM_E_GND
 AG:LTFM_GND Istanbul Ground:124.725:novoice:LTFM_GND
+AG:LTFM_S_DEL Istanbul Slot Control:125.750:novoice:LTFM_S_DEL
 AG:LTFM_TE_GND Istanbul Ground:129.625:novoice:LTFM_TE_GND
 AG:LTFM_TWR Istanbul Tower:130.625:novoice:LTFM_TWR
 AG:LTFM_TW_GND Istanbul Ground:124.925:novoice:LTFM_TW_GND
