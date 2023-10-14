@@ -11,7 +11,7 @@
 	<DefaultTaxiTime minutes="15" />
 	<RefreshTime seconds="20" />
 	<Debug mode="false" />
-	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
+	<FlowRestrictions url="" />
 	<ftpHost host="" />
 	<ftpUser user="" />
 	<ftpPassword password="" />

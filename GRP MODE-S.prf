@@ -30,7 +30,7 @@ Plugins	Plugin2	\LTXX\Plugins\Discord Euroscope\DiscordEuroscope.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 Plugins	Plugin3	\LTXX\Plugins\RDF\RDFPlugin.dll
 Plugins	Plugin3Display0	Standard ES radar screen
-Plugins	Plugin4	\LTXX\Plugins\Virtual Controller Assistant\VirtualControllerAssistant.dll
+Plugins	Plugin4	\LTXX\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
 Plugins	Plugin5	\LTXX\Plugins\TopSky\TopSky.dll
 Plugins	Plugin5Display0	Standard ES radar screen
 Plugins	Plugin5Display1	Ground Radar display

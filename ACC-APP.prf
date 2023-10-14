@@ -36,6 +36,7 @@ Plugins	Plugin5	\LTXX\Plugins\AMAN\Aman.dll
 Plugins	Plugin5Display0	Standard ES radar screen
 Plugins	Plugin6	\LTXX\Plugins\VCH\VCH.dll
 Plugins	Plugin6Display0	Standard ES radar screen
+Plugins	Plugin7	\LTXX\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
 Sounds	Sound0	\LTXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LTXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LTXX\Sounds\conflict_alert.wav
@@ -66,9 +67,9 @@ ASRFastKeys	8	\LTXX\ASR\GRP\LTBS_GRP.asr
 ASRFastKeys	9	\LTXX\ASR\GRP\LTCG_GRP.asr
 TeamSpeakVccs	TsVccsMiniControlX	1757
 TeamSpeakVccs	TsVccsMiniControlY	34
-Settings	sector	\LTXX-LTXX_20230909094702-230901-0006.sct
+Settings	sector	\Ankara Online.sct
 LastSession	atis_freq4	118000
-LastSession	connecttype	2
+LastSession	connecttype	0
 LastSession	realname	Alp Deniz Senyurt
 LastSession	certificate	1230936
 LastSession	password	
@@ -79,8 +80,8 @@ LastSession	tovatsim	1
 LastSession	range	20
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	2
-LastSession	scenario	D:\Euroscope\TRvACC\Training Department\NEW Sweatbox\Tower-Ground-Delivery\LTFJ\LTFJ_GND-06L.txt
-LastSession	callsign	LTFJ_M_GND
+LastSession	scenario	D:\Euroscope\TRvACC\Training Department\NEW Sweatbox\Approach\LTAI\LTAI 18C - 10 trafic sweatbox.txt
+LastSession	callsign	LTFJ_GND
 TeamSpeakVccs	Ts3NickName	1230936
 TeamSpeakVccs	PlaybackMode	Windows Audio Session
 TeamSpeakVccs	PlaybackDevice	SteelSeries Sonar - Aux (SteelSeries Sonar Virtual Audio Device)

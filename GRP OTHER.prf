@@ -37,6 +37,7 @@ Plugins	Plugin5	\LTXX\Plugins\GRP\Other\GRplugin.dll
 Plugins	Plugin5Display0	Ground Radar display
 Plugins	Plugin6	\LTXX\Plugins\VCH\VCH.dll
 Plugins	Plugin6Display0	Ground Radar display
+Plugins	Plugin7	\LTXX\Plugins\InitialClimbPlugin\InitialClimbPlugin.dll
 Sounds	Sound0	\LTXX\Sounds\handoff_request.wav
 Sounds	Sound1	\LTXX\Sounds\handoff_accept.wav
 Sounds	Sound2	\LTXX\Sounds\conflict_alert.wav

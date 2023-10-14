@@ -1,8 +1,8 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:D:\Euroscope\LTXX-2309\LTXX-LTXX_20230909094702-230901-0006.sct
-SECTORTITLE:LTXX-LTXX_20230909094702-230901-0006.sct
+SECTORFILE:%AppData%\sector-files\Ankara_Online.sct
+SECTORTITLE:Ankara_Online.sct
 ARTCC boundary:FIR border LTAA:
 SHOWC:1
 SHOWSB:1
@@ -21,16 +21,3 @@ WINDOWAREA:36.871883:30.726804:36.929410:30.868305
 PLUGIN:Ground Radar plugin:AirportElevation:177
 PLUGIN:Ground Radar plugin:AirportRadius:1.5
 PLUGIN:Ground Radar plugin:GroundMode:LTAI
-PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
-PLUGIN:Virtual Controller Assistant:CDSHOW:0
-PLUGIN:Virtual Controller Assistant:CDXPOS:100
-PLUGIN:Virtual Controller Assistant:CDYPOS:100
-PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
-PLUGIN:Virtual Controller Assistant:FADETRAIL:0
-PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
-PLUGIN:Virtual Controller Assistant:MSLSHOW:0
-PLUGIN:Virtual Controller Assistant:MSLXPOS:200
-PLUGIN:Virtual Controller Assistant:MSLYPOS:200
-PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
-PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
-PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
